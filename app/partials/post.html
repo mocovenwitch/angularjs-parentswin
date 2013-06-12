@@ -1,0 +1,6 @@
+<div>
+    <a href="#/polist">back</a>
+    <p>{{po}}</p>
+    <textarea type="text" rows="10" cols="40" ng-model="content" ng-change="checkText()"></textarea>
+    <button ng-click="post(content)" ng-disabled="disabledPost">post</button>
+</div>
