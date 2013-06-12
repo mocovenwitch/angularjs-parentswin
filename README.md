@@ -1,0 +1,4 @@
+angularjs-parentswin
+====================
+
+angularJS practice
